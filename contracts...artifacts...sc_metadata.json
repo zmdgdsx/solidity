@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "echo",
+				"outputs": [
+					{
+						"internalType": "bytes32",
+						"name": "",
+						"type": "bytes32"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/11.sol": "sc"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/11.sol": {
+			"keccak256": "0x73b7f8e70dafd338c6d935ab5df00f2cebe488d408a697c8ed08780dcb744463",
+			"urls": [
+				"bzz-raw://c5b8d1544fbe444dbe91a3a3ec698a0659f7b2cd40338c3844cada2d0283bff5",
+				"dweb:/ipfs/QmXE495B5qLcqgeL3zgdzk1xRDzMLomUvdP2mkR1VnaP16"
+			]
+		}
+	},
+	"version": 1
+}
